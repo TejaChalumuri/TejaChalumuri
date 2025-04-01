@@ -50,7 +50,6 @@ A  Masters graduate from **Data Science** at **Pace University**, I specialize i
 - 📈 Building predictive models & dashboards for data-driven insights  
 - ☁️ Deep diving into serverless ETL with AWS Glue + Redshift  
 - 🧪 Applying ML techniques on real-world datasets  
-- 🎓 Finishing my M.S. in Data Science (Graduating Dec 2024)
 
 ---
 
