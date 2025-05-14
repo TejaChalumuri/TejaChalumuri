@@ -14,10 +14,9 @@
 
 ### 📌 About Me
 
-I'm a results-driven **Data Analyst** with 3+ years of experience turning raw data into powerful insights and business outcomes.  
-From optimizing SQL queries across massive datasets to automating ETL pipelines and building dashboards that tell stories—I'm all about solving real-world problems with code, creativity, and curiosity.
+Hi! I'm Tejalakshmi — a data enthusiast with hands-on experience in data analytics, machine learning, cloud platforms, and visualization. I'm currently pursuing my Master's in Data Science from Pace University (GPA 3.74), where I specialize in predictive modeling, statistical analysis, and scalable data solutions.
 
-A  Masters graduate from **Data Science** at **Pace University**, I specialize in Python, SQL, cloud services (AWS, Azure), and modern data tools that streamline decision-making.
+My projects range from predicting stock trends with Apache Spark to analyzing NYC fire incident data for public safety optimization. I love transforming raw data into actionable insights and building visual dashboards that support data-driven decisions.
 
 ---
 
