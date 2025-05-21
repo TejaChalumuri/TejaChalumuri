@@ -54,7 +54,6 @@ My projects range from predicting stock trends with Apache Spark to analyzing NY
 
 ### 📬 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/tejalakshmi-gangadhar-c-a21688193/)
 - [GitHub](https://github.com/TejaChalumuri)
 
 ---
