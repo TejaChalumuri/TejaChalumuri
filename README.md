@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Tejalakshmi Gangadhar, Chalumuri 👋</h1>
 
 <p align="center">
-  💼 Data Analyst | 🔍 Insight Explorer | ☁️ Cloud Enthusiast<br>
+  💼 Data Scientist | 🔍 Insight Explorer | ☁️ Cloud Enthusiast<br>
   📊 Making sense of data | ⚡ Automating the boring stuff | 🧠 Forever learning
 </p>
 
